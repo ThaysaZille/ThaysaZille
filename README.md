@@ -1,5 +1,23 @@
-I have a passion for learning and growing, and I am always studying new ways to improve my skills as a developer. My strengths lie in analytical abilities and problem-solving, with a demonstrated ability to manage multiple priorities in an agile development environment.
-I define technical strategies for executing analysis with a data science perspective.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+  I have a passion for learning and growing, and I am always studying new ways to improve my skills as a <strong>Developer</strong>.<br>
+  My strengths lie in analytical abilities and problem-solving, with a demonstrated ability to manage multiple priorities in an agile development environment.
+  I define technical strategies for executing analysis with a data science perspective.
+
+</p>
+
+<p align="left">
+  💌 Contact Me: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=[https://mail.google.com/mail/u/thaysazille@gmail.com]" /></a>
+
+  <a href="#" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/thaysazille/)" /></a>
+</p>
 
 ### Decision-making
 Has the ability to make high quality decisions based on limited information.
@@ -20,11 +38,7 @@ Has the ability to work efficiently with people and cooperate with others.
 - Outstanding at building good relationships and contributing to an upbeat team spirit.
 - Able to develop lasting relationships, based on positive interactions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/thaysazille/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-![](https://komarev.com/ghpvc/?username=your-github-username&style=plastic)
-
+![](https://komarev.com/ghpvc/?username=ThaysaZille&color=blueviolet&style=plastic)
 
 
 <!--
