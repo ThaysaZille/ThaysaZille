@@ -1,20 +1,20 @@
 I have a passion for learning and growing, and I am always studying new ways to improve my skills as a developer. My strengths lie in analytical abilities and problem-solving, with a demonstrated ability to manage multiple priorities in an agile development environment.
 I define technical strategies for executing analysis with a data science perspective.
 
-## Decision-making
+##Decision-making
 Has the ability to make high quality decisions based on limited information.
 - Exceptional at anticipating problems and choosing innovative solutions.
 - Great at accepting criticism and comments, as well as taking responsibility for decisions.
 - Able to critically evaluate information, generate solutions and use facts, logic and experience to inform decisions.
 - Very good at expressing opinions and beliefs, as well as taking control of a situation.
 
-## Adaptation skills
+##Adaptation skills
 Has the ability to adapt to changes in the workplace while maintaining a positive demeanor.
 - Great at keeping calm and operating effectively under pressure and various demands.
 - Great at dealing positively with obstacles, failures and challenges associated with change.
 - Highly capable of applying new skills and adapting to changes and different environments.
 
-## Team work
+##Team work
 Has the ability to work efficiently with people and cooperate with others.
 - Great at working closely with colleagues and sharing responsibility for the direction and performance of a team.
 - Outstanding at building good relationships and contributing to an upbeat team spirit.
